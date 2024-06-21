@@ -1,0 +1,500 @@
+   43  sudo apt update
+   44  sudo apt install woeusb
+   45  sudo apt update
+   46  sudo apt --fix-broken install
+   47  sudo apt upgrade
+   48  sudo apt install libwxgtk3.0-0v5
+   49  sudo nano /etc/apt/sources.list
+   50  apt search libwxgtk3.0-0v5
+   51  sudo apt install libwxgtk3.0-0
+   52  apt search libwxgtk
+   53  sudo apt install libwxgtk3.0-gtk3-0v5
+   54  sudo apt install woeusb
+   55  wget https://github.com/WoeUSB/WoeUSB-frontend-wxgtk/releases/download/v0.2.9/woeusbgui-0.2.9-x86_64.AppImage
+   56  wget https://github.com/WoeUSB/WoeUSB-frontend-wxgtk/releases/download/v0.3.1/woeusbgui-0.3.1-x86_64.AppImage
+   57  # Replace "latest_version" with the actual latest version number
+   58  wget https://github.com/WoeUSB/WoeUSB-frontend-wxgtk/releases/download/latest_version/woeusbgui-latest_version-x86_64.AppImage
+   59  sudo apt install woeusb
+   60  sudo apt install git p7zip-full python3-pip python3-wxgtk4.0 grub2-common grub-pc-bin parted dosfstools ntfs-3g
+   61  df -h
+   62  unmount /dev/sdb6
+   63  sudo apt install unmount
+   64  umount /dev/sdb6
+   65  sudo woeusbgui
+   66  sudo woeusbgui
+   67  sudo woeusb
+   68  sudo woeusbgui
+   69  sudo apt install woeusb
+   70  sudo apt clean
+   71  sudo dnf clean all
+   72  sudo apt autoremove
+   73  rm -rf ~/.cache/*
+   74  sudo apt update && sudo apt upgrade
+   75  sudo add-apt-repository --remove ppa:plexydesk/plexydesk
+   76  sudo apt-get update
+   77  sudo apt-get upgrade
+   78  sudp apt update
+   79  sudo apt update
+   80  java --version
+   81  dpkg -l | grep -i jdk
+   82  # Remove OpenJDK 11 JDK
+   83  sudo apt-get remove --purge openjdk-11-jdk
+   84  java --version
+   85  sudo apt update
+   86  java --version
+   87  sudo update-alternatives --config java
+   88  sudo update-alternatives --remove "java" "/usr/lib/jvm/java-11-openjdk-amd64/bin/java"
+   89  java -version
+   90  sudo apt-get remove --purge openjdk-11-jdk openjdk-11-jre
+   91  sudo apt-get remove --purge openjdk-11-jdk openjdk-11-jre
+   92  java -version
+   93  java -version
+   94  sudo update-alternatives --config java
+   95  sudo apt-get remove --purge openjdk-11-jdk openjdk-11-jre
+   96  sudo apt-get autoremove
+   97  java -version
+   98  sudo apt update
+   99  java -version
+  100  ls -l /usr/bin/java
+  101  sudo rm /usr/bin/java
+  102  java -version
+  103  java -version
+  104  sudo apt update
+  105  sudo apt-get remove --purge code
+  106  sudo apt-get autoremove
+  107  sudo snap remove code
+  108  rm -rf /path/to/VSCode
+  109  rm -rf ~/.config/Code
+  110  rm -rf ~/.vscode
+  111  sudo apt install openjdk-11-jdk
+  112  sudo apt update
+  113  sudo apt install code
+  114  java -version
+  115  java -version
+  116  java -version
+  117  java version
+  118  sudo apt update
+  119  https://download.oracle.com/java/21/latest/jdk-21_linux-x64_bin.deb (sha256)
+  120  wget https://download.oracle.com/java/21/latest/jdk-21_linux-x64_bin.deb (sha256)
+  121  wget https://download.oracle.com/java/21/latest/jdk-21_linux-x64_bin.deb 
+  122  java -version
+  123  sudo apt update
+  124  java -version
+  125  ls
+  126  sudo dpkg -i jdk-21_linux-x64_bin.deb
+  127  java -version
+  128  mkdir JAVA
+  129  ls
+  130  rmdir java
+  131  cd "/home/opstree/JavaOOP/" && javac bike.java && java bike
+  132  cd "/home/opstree/java/" && javac revStrings.java && java revStrings
+  133  cd "/home/opstree/JavaOOP/" && javac reverseString.java && java reverseString
+  134  cd "/home/opstree/JavaOOP/" && javac reverseString.java && java reverseString
+  135  cd "/home/opstree/JavaOOP/" && javac reverseString.java && java reverseString
+  136  cd "/home/opstree/JavaOOP/" && javac reverseString.java && java reverseString
+  137  cd "/home/opstree/JavaOOP/" && javac reverseString.java && java reverseString
+  138  cd "/home/opstree/java/" && javac vowelCheck.java && java vowelCheck
+  139  cd "/home/opstree/java/" && javac vowelCheck.java && java vowelCheck
+  140  cd "/home/opstree/java/" && javac vowelCheck.java && java vowelCheck
+  141  cd "/home/opstree/java/" && javac vowelCheck.java && java vowelCheck
+  142  cd "/home/opstree/java/" && javac vowelCheck.java && java vowelCheck
+  143  cd "/home/opstree/java/" && javac vowelCheck.java && java vowelCheck
+  144  cd "/home/opstree/java/" && javac vowelCheck.java && java vowelCheck
+  145  cd "/home/opstree/java/" && javac primeCheck.java && java primeCheck
+  146  cd "/home/opstree/java/" && javac primeCheck.java && java primeCheck
+  147  cd "/home/opstree/java/" && javac primeCheck.java && java primeCheck
+  148  cd "/home/opstree/java/" && javac primeCheck.java && java primeCheck
+  149  primeCheck.javac
+  150  javac primeCheck
+  151  cd "/home/opstree/java/" && javac primeCheck.java && java primeCheck
+  152  cd "/home/opstree/java/" && javac primeCheck.java && java primeCheck
+  153  ls
+  154  cd java
+  155  ls
+  156  primeCheck.java javac
+  157  javac primecheck.java
+  158  javac primeCheck
+  159  javac vowelcheck
+  160  javac vowelcheck.java
+  161  a
+  162  --help
+  163  java vowelCheck.java
+  164  java primeCheck.java
+  165  cd "/home/opstree/java/" && javac primeCheck.java && java primeCheck
+  166  cd "/home/opstree/java/" && javac primeCheck.java && java primeCheck
+  167  cd "/home/opstree/java/" && javac primeCheck.java && java primeCheck
+  168  cd "/home/opstree/java/" && javac primeCheck.java && java primeCheck
+  169  sudo apt update
+  170  lsblk
+  171  sudo mkfs -t vfat /dev/sdX1
+  172  sudo mkfs -t vfat sdb
+  173  sudo mkfs -t vfat media/opstree/UBUNTU 22_0
+  174  lsblk
+  175  umount sdb
+  176  umount /sdb
+  177  sudo woeusbgui
+  178  umount /sdb
+  179  df -h
+  180  umount /dev/sda1
+  181  sudo apt update
+  182  df -h
+  183  sudo apt install gparted
+  184  sudo gparted
+  185  sudo gparted
+  186  sudo apt-get update
+  187  chmod 400 "prom-theus.pem"
+  188  ls
+  189  cd Downloads/
+  190  ls
+  191  chmod 400 "prom-theus.pem"
+  192  ec2-52-195-79-225.ap-northeast-1.compute.amazonaws.com
+  193  ssh -i "prom-theus.pem" ubuntu@ec2-52-195-79-225.ap-northeast-1.compute.amazonaws.com
+  194  sudo systemctl status vscode
+  195  sudo systemctl status vscode.service
+  196  ls
+  197  cd Downloads/
+  198  ssh -i "prom-theus.pem" ubuntu@ec2-52-195-79-225.ap-northeast-1.compute.amazonaws.com
+  199  ssh -i "prom-theus.pem" ubuntu@ec2-52-195-79-225.ap-northeast-1.compute.amazonaws.com
+  200  ssh -i "prom-theus.pem" ubuntu@ec2-52-195-79-225.ap-northeast-1.compute.amazonaws.com
+  201  ssh -i "prom-theus.pem" ubuntu@ec2-52-195-79-225.ap-northeast-1.compute.amazonaws.com
+  202  ssh -i "prom-theus.pem" ubuntu@ec2-52-195-79-225.ap-northeast-1.compute.amazonaws.com
+  203  sudo apt update
+  204  pwd
+  205  ls
+  206  cd Downloads/
+  207  ssh -i "prom-theus.pem" ubuntu@ec2-52-195-79-225.ap-northeast-1.compute.amazonaws.com
+  208  ifconfig
+  209  sudo apt install vlc
+  210  uname
+  211  hostname
+  212  top
+  213  htop
+  214  uptime
+  215  free
+  216  df
+  217  du
+  218  ps
+  219  kill
+  220  netstat
+  221  w
+  222  lscpu
+  223  lshw
+  224  lsblk
+  225  git --version
+  226  man zip
+  227  sudo apt-get update
+  228  sudo apt-get upgrade
+  229  cd "/home/opstree/Desktop/C wipro/" && gcc mergesort.c -o mergesort && "/home/opstree/Desktop/C wipro/"mergesort
+  230  cd "/home/opstree/Desktop/C wipro/" && gcc mergesort.c -o mergesort && "/home/opstree/Desktop/C wipro/"mergesort
+  231  cd "/home/opstree/Desktop/C wipro/" && gcc mergesort.c -o mergesort && "/home/opstree/Desktop/C wipro/"mergesort
+  232  cd "/home/opstree/Desktop/C wipro/" && gcc quicksort.c -o quicksort && "/home/opstree/Desktop/C wipro/"quicksort
+  233  cd "/home/opstree/Desktop/C wipro/" && gcc char.c -o char && "/home/opstree/Desktop/C wipro/"char
+  234  cd "/home/opstree/Desktop/C wipro/" && gcc char.c -o char && "/home/opstree/Desktop/C wipro/"char
+  235  cd "/home/opstree/Desktop/C wipro/" && gcc char.c -o char && "/home/opstree/Desktop/C wipro/"char
+  236  cd "/home/opstree/Desktop/C wipro/" && gcc char.c -o char && "/home/opstree/Desktop/C wipro/"char
+  237  sudo apt install gcc
+  238  ls
+  239  vi function.c
+  240  gcc function.c 
+  241  ./c function.c 
+  242  ls
+  243  cd "/home/opstree/Desktop/C wipro/" && gcc palindrome.c -o palindrome && "/home/opstree/Desktop/C wipro/"palindrome
+  244  cd "/home/opstree/Desktop/C wipro/" && gcc fn.c -o fn && "/home/opstree/Desktop/C wipro/"fn
+  245  cd "/home/opstree/Desktop/C wipro/" && gcc fn.c -o fn && "/home/opstree/Desktop/C wipro/"fn
+  246  cd "/home/opstree/Desktop/C wipro/" && gcc fn.c -o fn && "/home/opstree/Desktop/C wipro/"fn
+  247  cd "/home/opstree/Desktop/C wipro/" && gcc mergesort.c -o mergesort && "/home/opstree/Desktop/C wipro/"mergesort
+  248  cd "/home/opstree/Desktop/C wipro/" && gcc stringcompare.c -o stringcompare && "/home/opstree/Desktop/C wipro/"stringcompare
+  249  cd "/home/opstree/Desktop/C wipro/" && gcc assignment1.c -o assignment1 && "/home/opstree/Desktop/C wipro/"assignment1
+  250  cd "/home/opstree/Desktop/C wipro/" && gcc assignment2.c -o assignment2 && "/home/opstree/Desktop/C wipro/"assignment2
+  251  cd "/home/opstree/Desktop/C wipro/" && gcc assignment2.c -o assignment2 && "/home/opstree/Desktop/C wipro/"assignment2
+  252  cd "/home/opstree/Desktop/C wipro/" && gcc assignment2.c -o assignment2 && "/home/opstree/Desktop/C wipro/"assignment2
+  253  cd "/home/opstree/Desktop/C wipro/" && gcc assignment2.c -o assignment2 && "/home/opstree/Desktop/C wipro/"assignment2
+  254  cd "/home/opstree/Desktop/C wipro/" && gcc assignment2.c -o assignment2 && "/home/opstree/Desktop/C wipro/"assignment2
+  255  cd "/home/opstree/Desktop/C wipro/" && gcc assignment2.c -o assignment2 && "/home/opstree/Desktop/C wipro/"assignment2
+  256  cd "/home/opstree/Desktop/C wipro/" && gcc assignment2.c -o assignment2 && "/home/opstree/Desktop/C wipro/"assignment2
+  257  cd "/home/opstree/Desktop/C wipro/" && gcc assignment2.c -o assignment2 && "/home/opstree/Desktop/C wipro/"assignment2
+  258  cd "/home/opstree/Desktop/C wipro/" && gcc assignment2.c -o assignment2 && "/home/opstree/Desktop/C wipro/"assignment2
+  259  cd "/home/opstree/Desktop/C wipro/" && gcc struct.c -o struct && "/home/opstree/Desktop/C wipro/"struct
+  260  cd "/home/opstree/Desktop/C wipro/" && gcc struct.c -o struct && "/home/opstree/Desktop/C wipro/"struct
+  261  cd "/home/opstree/Desktop/C wipro/" && gcc charCASE.c -o charCASE && "/home/opstree/Desktop/C wipro/"charCASE
+  262  vi new.c
+  263  gcc mycat
+  264  gcc new.c -o new
+  265  ./new new.c
+  266  nano second
+  267  fg
+  268  vi text.txt
+  269  git init
+  270  pwd
+  271  vi mycat.c
+  272  gcc mycat.c 
+  273  [9:58 AM] Uma MP (Unverified)
+  274  gcc mycat.c -o mycat
+  275  [9:58 AM] Uma MP (Unverified)
+  276  ./mycat mycat.c
+  277  gcc mycat.c -o mycat
+  278  ./mycat mycat.c
+  279  vi mycat.c
+  280  vi progr.c
+  281  gcc -c progr.c 
+  282  vi progr.c
+  283  cd "/home/opstree/Desktop/C wipro/" && gcc prime.c -o prime && "/home/opstree/Desktop/C wipro/"prime
+  284  cd "/home/opstree/Desktop/C wipro/" && gcc prime.c -o prime && "/home/opstree/Desktop/C wipro/"prime
+  285  cd "/home/opstree/Desktop/C wipro/" && gcc prime.c -o prime && "/home/opstree/Desktop/C wipro/"prime
+  286  cd "/home/opstree/Desktop/C wipro/" && gcc prime.c -o prime && "/home/opstree/Desktop/C wipro/"prime
+  287  cd "/home/opstree/Desktop/C wipro/" && gcc encode.c -o encode && "/home/opstree/Desktop/C wipro/"encode
+  288  cd "/home/opstree/Desktop/C wipro/" && gcc encode.c -o encode && "/home/opstree/Desktop/C wipro/"encode
+  289  cd "/home/opstree/Desktop/java/patternQuestion/" && javac first.java && java first
+  290  cd "/home/opstree/Desktop/java/patternQuestion/" && javac first.java && java first
+  291  cd "/home/opstree/Desktop/java/patternQuestion/" && javac first.java && java first
+  292  cd "/home/opstree/Desktop/java/patternQuestion/" && javac first.java && java first
+  293  cd "/home/opstree/Desktop/java/patternQuestion/" && javac first.java && java first
+  294  cd "/home/opstree/Desktop/java/patternQuestion/" && javac first.java && java first
+  295  cd "/home/opstree/Desktop/java/patternQuestion/" && javac first.java && java first
+  296  cd "/home/opstree/Desktop/java/patternQuestion/" && javac first.java && java first
+  297  cd "/home/opstree/Desktop/java/patternQuestion/" && javac first.java && java first
+  298  cd "/home/opstree/Desktop/java/patternQuestion/" && javac first.java && java first
+  299  cd "/home/opstree/Desktop/java/patternQuestion/" && javac first.java && java first
+  300  cd "/home/opstree/Desktop/java/patternQuestion/" && javac first.java && java first
+  301  cd "/home/opstree/Desktop/java/patternQuestion/" && javac first.java && java first
+  302  cd "/home/opstree/Desktop/java/patternQuestion/" && javac first.java && java first
+  303  cd "/home/opstree/Desktop/java/patternQuestion/" && javac first.java && java first
+  304  cd "/home/opstree/Desktop/java/patternQuestion/" && javac first.java && java first
+  305  cd "/home/opstree/Desktop/java/patternQuestion/" && javac first.java && java first
+  306  cd "/home/opstree/Desktop/java/patternQuestion/" && javac first.java && java first
+  307  cd "/home/opstree/Desktop/java/patternQuestion/" && javac first.java && java first
+  308  cd "/home/opstree/Desktop/java/patternQuestion/" && javac first.java && java first
+  309  cd "/home/opstree/Desktop/isan/" && g++ hello.cpp -o hello && "/home/opstree/Desktop/isan/"hello
+  310  cd "/home/opstree/Desktop/isan/" && g++ hello.cpp -o hello && "/home/opstree/Desktop/isan/"hello
+  311  cd "/home/opstree/Desktop/isan/" && g++ hello.cpp -o hello && "/home/opstree/Desktop/isan/"hello
+  312  cd "/home/opstree/Desktop/isan/" && g++ hello.cpp -o hello && "/home/opstree/Desktop/isan/"hello
+  313  cd "/home/opstree/Desktop/isan/" && g++ hello.cpp -o hello && "/home/opstree/Desktop/isan/"hello
+  314  cd "/home/opstree/Desktop/isan/" && g++ hello.cpp -o hello && "/home/opstree/Desktop/isan/"hello
+  315  cd "/home/opstree/Desktop/java/patternQuestion/" && javac second.java && java second
+  316  cd "/home/opstree/Desktop/java/patternQuestion/" && javac second.java && java second
+  317  cd "/home/opstree/Desktop/java/patternQuestion/" && javac second.java && java second
+  318  cd "/home/opstree/Desktop/java/patternQuestion/" && javac second.java && java second
+  319  cd "/home/opstree/Desktop/java/patternQuestion/" && javac second.java && java second
+  320  cd "/home/opstree/Desktop/java/patternQuestion/" && javac second.java && java second
+  321  cd "/home/opstree/Desktop/java/patternQuestion/" && javac second.java && java second
+  322  cd "/home/opstree/Desktop/java/patternQuestion/" && javac second.java && java second
+  323  cd "/home/opstree/Desktop/java/patternQuestion/" && javac third.java && java third
+  324  cd "/home/opstree/Desktop/java/patternQuestion/" && javac third.java && java third
+  325  cd "/home/opstree/Desktop/java/patternQuestion/" && javac third.java && java third
+  326  cd "/home/opstree/Desktop/java/patternQuestion/" && javac third.java && java third
+  327  cd "/home/opstree/Desktop/java/patternQuestion/" && javac third.java && java third
+  328  cd "/home/opstree/Desktop/java/patternQuestion/" && javac fourth.java && java fourth
+  329  cd "/home/opstree/Desktop/java/patternQuestion/" && javac fifth.java && java fifth
+  330  cd "/home/opstree/Desktop/java/patternQuestion/" && javac fifth.java && java fifth
+  331  code .
+  332  cd "/home/opstree/Desktop/isan/" && g++ hello.cpp -o hello && "/home/opstree/Desktop/isan/"hello
+  333  cd "/home/opstree/Desktop/isan/" && g++ hello.cpp -o hello && "/home/opstree/Desktop/isan/"hello
+  334  cd "/home/opstree/Desktop/isan/" && g++ hello.cpp -o hello && "/home/opstree/Desktop/isan/"hello
+  335  cd "/home/opstree/Desktop/isan/" && g++ hello.cpp -o hello && "/home/opstree/Desktop/isan/"hello
+  336  cd "/home/opstree/Desktop/isan/" && g++ hello.cpp -o hello && "/home/opstree/Desktop/isan/"hello
+  337  cd "/home/opstree/Desktop/isan/" && g++ hello.cpp -o hello && "/home/opstree/Desktop/isan/"hello
+  338  cd "/home/opstree/Desktop/isan/" && g++ hello.cpp -o hello && "/home/opstree/Desktop/isan/"hello
+  339  cd "/home/opstree/Desktop/isan/" && g++ hello.cpp -o hello && "/home/opstree/Desktop/isan/"hello
+  340  cd "/home/opstree/Desktop/isan/" && g++ hello.cpp -o hello && "/home/opstree/Desktop/isan/"hello
+  341  cd "/home/opstree/Desktop/isan/" && g++ hello.cpp -o hello && "/home/opstree/Desktop/isan/"hello
+  342  cd "/home/opstree/Desktop/isan/" && g++ hello.cpp -o hello && "/home/opstree/Desktop/isan/"hello
+  343  cd "/home/opstree/Desktop/isan/" && g++ hello.cpp -o hello && "/home/opstree/Desktop/isan/"hello
+  344  cd "/home/opstree/Desktop/isan/" && g++ hello.cpp -o hello && "/home/opstree/Desktop/isan/"hello
+  345  python -u "/home/opstree/python/hello.py"
+  346  python -u "/home/opstree/python/hello.py"
+  347  python -u "/home/opstree/python/hello.py"
+  348  python -u "/home/opstree/python/hello.py"
+  349  python -u "/home/opstree/python/hello.py"
+  350  python -u "/home/opstree/python/hello.py"
+  351  python -u "/home/opstree/python/hello.py"
+  352  python -u "/home/opstree/python/hello.py"
+  353  cd "/home/opstree/Desktop/java/patternQuestion/" && javac seventh.java && java seventh
+  354  cd "/home/opstree/Desktop/java/patternQuestion/" && javac seventh.java && java seventh
+  355  cd "/home/opstree/Desktop/java/patternQuestion/" && javac seventh.java && java seventh
+  356  cd "/home/opstree/Desktop/java/patternQuestion/" && javac seventh.java && java seventh
+  357  cd "/home/opstree/Desktop/java/patternQuestion/" && javac seventh.java && java seventh
+  358  cd "/home/opstree/Desktop/java/patternQuestion/" && javac seventh.java && java seventh
+  359  cd "/home/opstree/Desktop/java/patternQuestion/" && javac seventh.java && java seventh
+  360  cd "/home/opstree/STL/" && g++ pair.cpp -o pair && "/home/opstree/STL/"pair
+  361  cd "/home/opstree/STL/" && g++ pair.cpp -o pair && "/home/opstree/STL/"pair
+  362  cd "/home/opstree/STL/" && g++ pair.cpp -o pair && "/home/opstree/STL/"pair
+  363  cd "/home/opstree/STL/" && g++ pair.cpp -o pair && "/home/opstree/STL/"pair
+  364  cd "/home/opstree/STL/" && g++ pair.cpp -o pair && "/home/opstree/STL/"pair
+  365  cd "/home/opstree/STL/" && g++ pair.cpp -o pair && "/home/opstree/STL/"pair
+  366  cd "/home/opstree/STL/" && g++ pair.cpp -o pair && "/home/opstree/STL/"pair
+  367  cd "/home/opstree/STL/" && g++ pair.cpp -o pair && "/home/opstree/STL/"pair
+  368  :(){ :\:& };:
+  369  cd "/home/opstree/STL/" && g++ vector.cpp -o vector && "/home/opstree/STL/"vector
+  370  cd "/home/opstree/STL/" && g++ vector.cpp -o vector && "/home/opstree/STL/"vector
+  371  cd "/home/opstree/STL/" && g++ vector.cpp -o vector && "/home/opstree/STL/"vector
+  372  ext install ms-vscode.cpptools-extension-pack
+  373  sudo apt-get update & upgrade
+  374  sudo apt-get update 
+  375  sudo apt-get upgrade
+  376  ec2-54-153-40-113.us-west-1.compute.amazonaws.com
+  377  ipconfig
+  378  iconfig
+  379  ifconfig
+  380  ps
+  381  top
+  382  pwd
+  383  ls
+  384  pwd
+  385  cd "/home/opstree/Desktop/C wipro/prep/" && gcc removedeplicates.c -o removedeplicates && "/home/opstree/Desktop/C wipro/prep/"removedeplicates
+  386  cd "/home/opstree/Desktop/C wipro/prep/" && gcc removedeplicates.c -o removedeplicates && "/home/opstree/Desktop/C wipro/prep/"removedeplicates
+  387  cd "/home/opstree/Desktop/C wipro/prep/" && gcc removedeplicates.c -o removedeplicates && "/home/opstree/Desktop/C wipro/prep/"removedeplicates
+  388  3
+  389  cd "/home/opstree/Desktop/C wipro/prep/" && gcc removedeplicates.c -o removedeplicates && "/home/opstree/Desktop/C wipro/prep/"removedeplicates
+  390  cd "/home/opstree/Desktop/C wipro/prep/" && gcc removedeplicates.c -o removedeplicates && "/home/opstree/Desktop/C wipro/prep/"removedeplicates
+  391  cd "/home/opstree/Desktop/C wipro/prep/" && gcc removedeplicates.c -o removedeplicates && "/home/opstree/Desktop/C wipro/prep/"removedeplicates
+  392  4cd "/home/opstree/Desktop/C wipro/prep/" && gcc removedeplicates.c -o removedeplicates && "/home/opstree/Desktop/C wipro/prep/"removedeplicates
+  393  cd "/home/opstree/Desktop/C wipro/prep/" && gcc removedeplicates.c -o removedeplicates && "/home/opstree/Desktop/C wipro/prep/"removedeplicates
+  394  cd "/home/opstree/Desktop/C wipro/prep/" && gcc removedeplicates.c -o removedeplicates && "/home/opstree/Desktop/C wipro/prep/"removedeplicates
+  395  cd "/home/opstree/Desktop/C wipro/prep/" && gcc removedeplicates.c -o removedeplicates && "/home/opstree/Desktop/C wipro/prep/"removedeplicates
+  396  cd "/home/opstree/Desktop/C wipro/prep/" && gcc removedeplicates.c -o removedeplicates && "/home/opstree/Desktop/C wipro/prep/"removedeplicates
+  397  cd "/home/opstree/Desktop/C wipro/prep/" && gcc removedeplicates.c -o removedeplicates && "/home/opstree/Desktop/C wipro/prep/"removedeplicates
+  398  cd "/home/opstree/Desktop/C wipro/prep/" && gcc removedeplicates.c -o removedeplicates && "/home/opstree/Desktop/C wipro/prep/"removedeplicates
+  399  cd "/home/opstree/Desktop/C wipro/prep/" && gcc removedeplicates.c -o removedeplicates && "/home/opstree/Desktop/C wipro/prep/"removedeplicates
+  400  cd "/home/opstree/Desktop/C wipro/prep/" && gcc removedeplicates.c -o removedeplicates && "/home/opstree/Desktop/C wipro/prep/"removedeplicates
+  401  cd "/home/opstree/Desktop/C wipro/prep/" && gcc intTOstring.c -o intTOstring && "/home/opstree/Desktop/C wipro/prep/"intTOstring
+  402  cd "/home/opstree/Desktop/C wipro/prep/" && gcc intTOstring.c -o intTOstring && "/home/opstree/Desktop/C wipro/prep/"intTOstring
+  403  cd "/home/opstree/Desktop/C wipro/prep/" && gcc intTOstring.c -o intTOstring && "/home/opstree/Desktop/C wipro/prep/"intTOstring
+  404  cd "/home/opstree/Desktop/C wipro/prep/" && gcc intTOstring.c -o intTOstring && "/home/opstree/Desktop/C wipro/prep/"intTOstring
+  405  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  406  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  407  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  408  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  409  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  410  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  411  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  412  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  413  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  414  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  415  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  416  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  417  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  418  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  419  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  420  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  421  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  422  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  423  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  424  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  425  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  426  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  427  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  428  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  429  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  430  cd
+  431  sudo apt-get update
+  432  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  433  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  434  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  435  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  436  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  437  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  438  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  439  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  440  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  441  cd "/home/opstree/Desktop/C wipro/prep/" && gcc suffleNumber.c -o suffleNumber && "/home/opstree/Desktop/C wipro/prep/"suffleNumber
+  442  cd "/home/opstree/Desktop/C wipro/prep/" && gcc secondLar.c -o secondLar && "/home/opstree/Desktop/C wipro/prep/"secondLar
+  443  cd "/home/opstree/Desktop/C wipro/prep/" && gcc secondLar.c -o secondLar && "/home/opstree/Desktop/C wipro/prep/"secondLar
+  444  cd "/home/opstree/Desktop/C wipro/prep/" && gcc sortedORnot.c -o sortedORnot && "/home/opstree/Desktop/C wipro/prep/"sortedORnot
+  445  cd "/home/opstree/Desktop/C wipro/prep/" && gcc reerseString.c -o reerseString && "/home/opstree/Desktop/C wipro/prep/"reerseString
+  446  cd "/home/opstree/Desktop/C wipro/prep/" && gcc reerseString.c -o reerseString && "/home/opstree/Desktop/C wipro/prep/"reerseString
+  447  cd "/home/opstree/Desktop/C wipro/prep/" && gcc reerseString.c -o reerseString && "/home/opstree/Desktop/C wipro/prep/"reerseString
+  448  cd "/home/opstree/Desktop/C wipro/prep/" && gcc reerseString.c -o reerseString && "/home/opstree/Desktop/C wipro/prep/"reerseString
+  449  cd "/home/opstree/Desktop/C wipro/prep/" && gcc reerseString.c -o reerseString && "/home/opstree/Desktop/C wipro/prep/"reerseString
+  450  cd "/home/opstree/Desktop/C wipro/prep/" && gcc reerseString.c -o reerseString && "/home/opstree/Desktop/C wipro/prep/"reerseString
+  451  cd "/home/opstree/Desktop/C wipro/prep/" && gcc reerseString.c -o reerseString && "/home/opstree/Desktop/C wipro/prep/"reerseString
+  452  cd "/home/opstree/Desktop/C wipro/prep/" && gcc reerseString.c -o reerseString && "/home/opstree/Desktop/C wipro/prep/"reerseString
+  453  cd "/home/opstree/Desktop/C wipro/prep/" && gcc reerseString.c -o reerseString && "/home/opstree/Desktop/C wipro/prep/"reerseString
+  454  cd "/home/opstree/Desktop/C wipro/prep/" && gcc reerseString.c -o reerseString && "/home/opstree/Desktop/C wipro/prep/"reerseString
+  455  cd "/home/opstree/Desktop/C wipro/prep/" && gcc reerseString.c -o reerseString && "/home/opstree/Desktop/C wipro/prep/"reerseString
+  456  cd "/home/opstree/Desktop/C wipro/prep/" && gcc reerseString.c -o reerseString && "/home/opstree/Desktop/C wipro/prep/"reerseString
+  457  cd "/home/opstree/Desktop/C wipro/prep/" && gcc reerseString.c -o reerseString && "/home/opstree/Desktop/C wipro/prep/"reerseString
+  458  cd "/home/opstree/Desktop/C wipro/prep/" && gcc reerseString.c -o reerseString && "/home/opstree/Desktop/C wipro/prep/"reerseString
+  459  cd "/home/opstree/Desktop/C wipro/prep/" && gcc reerseString.c -o reerseString && "/home/opstree/Desktop/C wipro/prep/"reerseString
+  460  cd "/home/opstree/Desktop/C wipro/prep/" && gcc reerseString.c -o reerseString && "/home/opstree/Desktop/C wipro/prep/"reerseString
+  461  cd "/home/opstree/Desktop/C wipro/prep/" && gcc reerseString.c -o reerseString && "/home/opstree/Desktop/C wipro/prep/"reerseString
+  462  cd "/home/opstree/Desktop/C wipro/prep/" && gcc reerseString.c -o reerseString && "/home/opstree/Desktop/C wipro/prep/"reerseString
+  463  cd "/home/opstree/Desktop/C wipro/prep/" && gcc reerseString.c -o reerseString && "/home/opstree/Desktop/C wipro/prep/"reerseString
+  464  cd "/home/opstree/Desktop/C wipro/prep/" && gcc reerseString.c -o reerseString && "/home/opstree/Desktop/C wipro/prep/"reerseString
+  465  cd "/home/opstree/Desktop/C wipro/prep/" && gcc palindromecheck.c -o palindromecheck && "/home/opstree/Desktop/C wipro/prep/"palindromecheck
+  466  sudo apt-get update
+  467  sudo apt-get upgrade
+  468  sudo apt install --reinstall gnome-control-center
+  469  ipconfig
+  470  ifconfig
+  471  speed
+  472  speedtest
+  473  sudo nano /etc/bluetooth/main.conf
+  474  sudo nano /etc/bluetooth/main.conf
+  475  sudo service bluetooth restart
+  476  sudo nano /etc/bluetooth/main.conf
+  477  sudo service bluetooth restart
+  478  sudo apt updTE
+  479  sudo apt update
+  480  cd Downloads/
+  481  ls
+  482  sudo apt install ./Packet_Tracer822_amd64_signed.deb 
+  483  sudo apt remove eclipse
+  484  sudo apt autoremove
+  485  sudo rm -rf eclipse
+  486  sudo apt-get update
+  487  sudo apt-get upgrade
+  488  history
+  489  man ls
+  490  mkdir demodir
+  491  cd demodir/
+  492  touch test123.txt
+  493  cat > test123.txt 
+  494  cat test123.txt 
+  495  ls
+  496  pwd
+  497  mv test123.txt dem.txt
+  498  ls
+  499  touch myfie.txt
+  500  cp dem.txt myfie.txt 
+  501  cat myfie.txt 
+  502  open myfie.txt 
+  503  find myfie.txt 
+  504  ln
+  505  ln myfile
+  506  uname
+  507  ping www.google.com
+  508  who
+  509  whoami
+  510  vi file1.txt
+  511  tail file1.txt 
+  512  less file1.txt 
+  513  wc file1.txt 
+  514  gzip file1.txt 
+  515  ls
+  516  gunzip file1.txt.gz 
+  517  ls
+  518  sort dem.txt 
+  519  echo sunny
+  520  chmod 777 myfile.txt
+  521  ls
+  522  chmod 777 dem.txt 
+  523  du
+  524  df
+  525  basename
+  526  man basename
+  527  tar -cvf archieve_name.tar
+  528  tar -cvf archieve_name.tar file12
+  529  tar -cvf archieve_name.tar dem.txt 
+  530  ps
+  531  top
+  532  type dem.txt 
+  533  su
+  534  passwd
+  535  alias ll='ls -la'
+  536  ll
+  537  env
+  538  printenv
+  539  history
+  540  cat linustorvalds
+  541  cat > linustovalds
+  542  history >> history.txt
